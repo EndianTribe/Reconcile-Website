@@ -1,4 +1,4 @@
 User-agent: *
 Allow: /
 
-Sitemap: https://www.endiantribe.com/sitemap.xml
+Sitemap: https://reconcile.endiantribe.com/sitemap.xml
