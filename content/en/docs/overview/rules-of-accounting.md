@@ -25,7 +25,7 @@ A journal entry's date is timestamped by the server and cannot be modified.
 
 If you wish to document the time of the expense, use the notes field.
 
-## Why>
+## Why?
 
 * Eliminates the possibility of "book cooking" whereby factitious entries are entered and then later removed or modified.
 * Eliminates the possibility of "book cooking" whereby factitious entries are inserted to a much earlier point in the ledger to avoid detection.
