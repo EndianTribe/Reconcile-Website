@@ -1,2 +1,2 @@
 canonifyURLs = true
-baseurl = https://www.endiantribe.com
+baseurl = "https://www.endiantribe.com"
