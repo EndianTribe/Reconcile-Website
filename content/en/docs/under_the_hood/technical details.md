@@ -17,17 +17,19 @@ toc: true
 
 ### IntelliJ IDEA Android Studio
 
-Native Android development necessitates IntelliJ IDEA Android Studio.
+Native Android development necessitates [IntelliJ IDEA Android Studio](https://developer.android.com/studio).
 
 ## Programming Language
 
 ### Kotlin
 
+[Kotlin](https://kotlinlang.org)...
+
 * Is officially preferred by Google as the language for Android over Java.
 
 * Compiles directly to Java bytecode on Java Virtual Machine to maintain compatibility with legacy platforms.
 
-* Has Kotlin Multiplaform feature, which enables client-side (JavaScript) and iOS compilation.
+* Has [Kotlin Multiplaform](https://kotlinlang.org/docs/multiplatform.html) feature, which enables client-side (JavaScript) and iOS compilation.
 
 ### vs. Java
 
@@ -35,7 +37,7 @@ Kotlin provides many benefits over Java. Below are three most important ones to 
 
 * Kotlin is much less verbose. No more `public static void main(String[] args)`.
 
-* Kotlin guarantees null safety. No more `NullPointerExceptions`.
+* Kotlin guarantees null safety. No more `NullPointerException`s.
 
 * Kotlin provides coroutine support for async operations. No need to manually manage threads.
 
@@ -43,27 +45,27 @@ Kotlin provides many benefits over Java. Below are three most important ones to 
 
 ### Github
 
-Github definitely beats copying and pasting Dropbox folders.
+[Github](https://github.com) definitely beats copying and pasting Dropbox folders.
 
 ## Frontend Library
 
 ### Jetpack Compose
 
-This project uses the declarative Jetpack Compose for UI composition instead of the old imperative Android View system. While Google has not terminated support for Android View, it is clear that Google intends for Jetpack Compose to be the future for native Android UI development.
+This project uses the declarative [Jetpack Compose](https://developer.android.com/jetpack/compose) for UI composition instead of the old imperative [Android View system](https://developer.android.com/reference/android/view/View). While Google has not terminated support for Android View, it is clear that Google intends for Jetpack Compose to be the future for native Android UI development.
 
 ### Material3
 
-Material3 is a collection of UI components available in Jetpack Compose that adhere to the Material Design guidelines. It provides a solid foundation for aesthetic and consistent user interface while maintaining ease of use and robustness.
+[Material3](https://m3.material.io) is a collection of UI components [available in Jetpack Compose](https://developer.android.com/jetpack/androidx/releases/compose-material3) that adhere to the [Material Design](https://material.io/design) guidelines. It provides a solid foundation for aesthetic and consistent user interface while maintaining ease of use and robustness.
 
 ## Backend Services
 
 ### Authentication
 
-Firebase Authentication provides the app with secure authentication service. Currently the app is configured to use Google as the federated Single Sign-On provider. In this setup, the app uses a Google authentication token from a logged-in Android device to verify identity against Firebase Authentication backend.
+[Firebase Authentication](https://firebase.google.com/docs/auth) provides the app with secure authentication service. Currently the app is configured to use Google as the [federated Single Sign-On](https://firebase.google.com/docs/auth/android/google-signin) provider. In this setup, the app uses a Google authentication token from a logged-in Android device to verify identity against Firebase Authentication backend.
 
 ### Database
 
-Firebase Firestore provides the app with realtime offline-capable NoSQL database service. NoSQL databases such as Firestore provides constant time hashed queries, which is critical to the app's performance. Additionally, the API intelligently caches data when internet connection becomes unavailable, thereby eliminating issues related to reduced app functionality when offline.
+[Firebase Firestore](https://firebase.google.com/docs/firestore) provides the app with realtime offline-capable NoSQL database service. NoSQL databases such as Firestore provides constant-time hashed queries, which is critical to the app's performance. Additionally, the API intelligently caches data when internet connection becomes unavailable, thereby eliminating issues related to reduced app functionality when offline.
 
 ## Design Patterns
 
@@ -71,16 +73,16 @@ Design patterns are like IDEs. They may take time to learn and make things seemi
 
 ### Model-View-ViewModel (MVVM) and Clean
 
-MVVM is practically a requirement for modern Android development. The dependency injection library Hilt works harmoniously with Android ViewModels, thereby providing a single source of truth andd unidirectional data flow.
+MVVM is practically a requirement for [modern Android development](https://developer.android.com/topic/architecture). The [dependency injection library Hilt](https://developer.android.com/training/dependency-injection/hilt-android) works harmoniously with [Android ViewModels](https://developer.android.com/topic/libraries/architecture/viewmodel), thereby providing a single source of truth andd unidirectional data flow.
 
-I have also additionally chosen to apply the Clean architecture to this project for enhanced separation of concerns, modularity, readability, and testability. For instance, one of the planned feature is enabling local database support (instead of the cloud Firestore the app currently relies on). Implementing another repository for existing use cases to tap in sounds far more appealing than digging through the spaghetti that is standard MVVM.
+I have also additionally chosen to apply the [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) to this project for enhanced separation of concerns, modularity, readability, and testability. For instance, one of the planned feature is enabling [local database support](https://developer.android.com/training/data-storage/room) (in addition to the cloud Firestore the app currently relies on). Implementing another repository for existing use cases sounds far more convenient than digging through the spaghetti that is standard MVVM.
 
 ### Reactive Programming
 
-While the Jetpack Compose library does offer mutable state holders whose change can trigger UI recomposition, I continue to find reactive programming with Kotlin Flow more ergonomic. Simple events can become a flow effortlessly with a flow builder. Even callback-based APIs (such as the Firebase services used in this app) can be converted to flows using `callbackFlow`.
+While the Jetpack Compose library does offer [mutable state holders](https://developer.android.com/jetpack/compose/state) whose change can trigger UI recomposition, I continue to find reactive programming with [Kotlin Flow](https://kotlinlang.org/docs/flow.html) more ergonomic. Simple events can become a flow effortlessly with a flow builder. Even callback-based APIs (such as the Firebase services used in this app) can be converted to flows using [`callbackFlow`](https://kotlinlang.org/api/kotlinx.coroutines/kotlinx-coroutines-core/kotlinx.coroutines.flow/callback-flow.html).
 
 ## Website
 
-This website you are seeing is a static website generated by Hugo. The theme used is Doks. It is built and deployed directly on Github Pages.
+What you are seeing is a static website generated by [Hugo](https://gohugo.io). The theme used is [Doks](https://getdoks.org). It is built and deployed directly on [Github Pages](https://pages.github.com).
 
-While I did consider using Jekyll, its relative inactive development made me quite hesitant. Additionally if you have witnessed how quickly Hugo builds locally, you would not hesitate to give it a try.
+While I did consider using [Jekyll](https://jekyllrb.com), its relative inactive development made me quite hesitant. Additionally if you have witnessed how quickly Hugo builds locally, you would not hesitate to give it a try.
