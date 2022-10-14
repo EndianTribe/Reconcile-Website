@@ -4,6 +4,7 @@ IntelliJ IDEA Android Studio #
 Native Android development necessitates IntelliJ IDEA Android Studio.
 Programming Language #
 Kotlin #
+Kotlin&amp;hellip;
 Is officially preferred by Google as the language for Android over Java.
 Compiles directly to Java bytecode on Java Virtual Machine to maintain compatibility with legacy platforms.
 Has Kotlin Multiplaform feature, which enables client-side (JavaScript) and iOS compilation.
