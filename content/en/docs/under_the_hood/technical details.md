@@ -55,7 +55,7 @@ This project uses the declarative [Jetpack Compose](https://developer.android.co
 
 ### Material3
 
-[Material3](https://m3.material.io) is a collection of UI components [available in Jetpack Compose](https://developer.android.com/jetpack/androidx/releases/compose-material3) that adhere to the [Material Design](https://material.io/design) guidelines. It provides a solid foundation for aesthetic and consistent user interface while maintaining ease of use and robustness.
+[Material3](https://m3.material.io) is a collection of UI components [available in Jetpack Compose](https://developer.android.com/reference/kotlin/androidx/compose/material3/package-summary#overview) that adhere to the [Material Design](https://material.io/design) guidelines. It provides a solid foundation for aesthetic and consistent user interface while maintaining ease of use and robustness.
 
 ## Backend Services
 
@@ -65,7 +65,7 @@ This project uses the declarative [Jetpack Compose](https://developer.android.co
 
 ### Database
 
-[Firebase Firestore](https://firebase.google.com/docs/firestore) provides the app with realtime offline-capable NoSQL database service. NoSQL databases such as Firestore provides constant-time hashed queries, which is critical to the app's performance. Additionally, the API intelligently caches data when internet connection becomes unavailable, thereby eliminating issues related to reduced app functionality when offline.
+[Firebase Firestore](https://firebase.google.com/docs/firestore) provides the app with realtime offline-capable NoSQL database service. NoSQL databases such as Firestore provide constant-time hashed queries, which is critical to the app's performance. Additionally, the API intelligently caches data when internet connection becomes unavailable, thereby eliminating issues related to reduced app functionality when offline.
 
 ## Design Patterns
 
@@ -73,7 +73,7 @@ Design patterns are like IDEs. They may take time to learn and make things seemi
 
 ### Model-View-ViewModel (MVVM) and Clean
 
-MVVM is practically a requirement for [modern Android development](https://developer.android.com/topic/architecture). The [dependency injection library Hilt](https://developer.android.com/training/dependency-injection/hilt-android) works harmoniously with [Android ViewModels](https://developer.android.com/topic/libraries/architecture/viewmodel), thereby providing a single source of truth andd unidirectional data flow.
+MVVM is practically a requirement for [modern Android development](https://developer.android.com/topic/architecture). The [dependency injection library Hilt](https://developer.android.com/training/dependency-injection/hilt-android) works harmoniously with [Android ViewModels](https://developer.android.com/topic/libraries/architecture/viewmodel), thereby providing a single source of truth and unidirectional data flow.
 
 I have also additionally chosen to apply the [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) to this project for enhanced separation of concerns, modularity, readability, and testability. For instance, one of the planned feature is enabling [local database support](https://developer.android.com/training/data-storage/room) (in addition to the cloud Firestore the app currently relies on). Implementing another repository for existing use cases sounds far more convenient than digging through the spaghetti that is standard MVVM.
 
