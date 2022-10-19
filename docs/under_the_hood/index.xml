@@ -9,4 +9,27 @@ Is officially preferred by Google as the language for Android over Java.
 Compiles directly to Java bytecode on Java Virtual Machine to maintain compatibility with legacy platforms.
 Has Kotlin Multiplaform feature, which enables client-side (JavaScript) and iOS compilation.
 vs. Java #
-Kotlin provides many benefits over Java. Below are three most important ones to this developer.</description></item></channel></rss>
+Kotlin provides many benefits over Java. Below are three most important ones to this developer.</description></item><item><title>Future Plans</title><link>https://reconcile.endiantribe.com/docs/under_the_hood/future-plans/</link><pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate><guid>https://reconcile.endiantribe.com/docs/under_the_hood/future-plans/</guid><description>Development Improvements #
+CI/CD #
+Code Style Enforcement #
+Error Handling #
+Replace Static Fields with String Resources #
+Consolidate Modifiers #
+Performance Improvements #
+Data Paging #
+Fair Use Limits #
+Server-Side Permissions #
+Reauthenticate User Prior to Deletion #
+Usability Improvements #
+Auto Suggestions on Entry Screen #
+Add Duplicate and Negate Entry #
+Features #
+Search #
+Detailed Statistics #
+Automatic User Data Cleanup #
+Tutorial Mode #
+Recurring Expenses #
+Outstanding Balance History #
+Multiple Users #
+Payment Method Implementation #
+Automatic Reconciliation/Transfers #</description></item></channel></rss>
