@@ -9,4 +9,4 @@ images: []
 weight: 999
 ---
 
-<!-- {{< email user="hello" domain="getdoks.org" >}} -->
+{{< email user="hello" domain="getdoks.org" >}}
