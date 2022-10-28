@@ -51,7 +51,7 @@ bgColor = "#fff"
 landscapePhotoWidths = [900, 800, 700, 600, 500]
 portraitPhotoWidths = [800, 700, 600, 500]
 lqipWidth = "20x"
-smallLimit = "300"
+smallLimit = "1000"
 
 # Images
 imageResponsive = true
