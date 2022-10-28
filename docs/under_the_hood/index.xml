@@ -32,4 +32,6 @@ Recurring Expenses #
 Outstanding Balance History #
 Multiple Users #
 Payment Method Implementation #
-Automatic Reconciliation/Transfers #</description></item></channel></rss>
+Automatic Reconciliation/Transfers #</description></item><item><title>Internal Testing</title><link>https://reconcile.endiantribe.com/docs/under_the_hood/internal-testing/</link><pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate><guid>https://reconcile.endiantribe.com/docs/under_the_hood/internal-testing/</guid><description>Thank you for participating in the exclusive internal test program of Reconcile the Android app. This page will explain to you the app’s purpose, its current implementation, and your role in the test process.
+Important Disclosures #
+This app is in its early stages of development and should not be relied upon for any tasks. Your data may be wiped at any time without notice. Additionally the app has not undergone any stringent security audits.</description></item></channel></rss>
