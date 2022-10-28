@@ -75,7 +75,7 @@ Design patterns are like IDEs. They may take time to learn and make things seemi
 
 MVVM is practically a requirement for [modern Android development](https://developer.android.com/topic/architecture). The [dependency injection library Hilt](https://developer.android.com/training/dependency-injection/hilt-android) works harmoniously with [Android ViewModels](https://developer.android.com/topic/libraries/architecture/viewmodel), thereby providing a single source of truth and unidirectional data flow.
 
-I have also additionally chosen to apply the [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) to this project for enhanced separation of concerns, modularity, readability, and testability. For instance, one of the planned feature is enabling [local database support](https://developer.android.com/training/data-storage/room) (in addition to the cloud Firestore the app currently relies on). Implementing another repository for existing use cases sounds far more convenient than digging through the spaghetti that is standard MVVM.
+I have also additionally chosen to apply the [Clean architecture](https://blog.cleancoder.com/uncle-bob/2012/08/13/the-clean-architecture.html) to this project for enhanced separation of concerns, modularity, readability, and testability. For instance, one of the planned features is enabling [local database support](https://developer.android.com/training/data-storage/room) (in addition to the cloud Firestore the app currently relies on). Implementing another repository for existing use cases sounds far more convenient than digging through the spaghetti that is standard MVVM.
 
 ### Reactive Programming
 
