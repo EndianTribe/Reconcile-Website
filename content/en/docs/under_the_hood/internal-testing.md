@@ -27,11 +27,11 @@ Reconcile is a personal ledger app. It tracks your financial position against ot
 
 ## App’s Implementation
 
-![image](./images/signin-screen.png "Google Sign-In Screen")
+![image](add-screen.png "Google Sign-In Screen")
 
 First, you will sign in through Google for the app to identify you.
 
-![image](./images/ledger-screen.png "Blank Ledger Screen")
+<!-- ![image](./images/ledger-screen.png "Blank Ledger Screen") -->
 
 Once signed in, you are presented with a blank ledger. This is the page that displays all journal entries. If a search filter is applied, it would then display the corresponding search results.
 
@@ -39,29 +39,29 @@ A journal entry is simply an expense line item that is associated with another i
 
 Imagine you just went to lunch with Hiliary Jones and the charges were put on your credit card. Now Hiliary Jones owes you $19.45.
 
-![image](./images/add-screen.png "Add Journal Entry Screen")
+<!-- ![image](./images/add-screen.png "Add Journal Entry Screen") -->
 
 Click on the plus button at the bottom right corner of the screen. Then enter the details as such. Because Hiliary owes you, from your perspective, it will be a debit transaction. Press the “DEBIT” button to finalize the journal entry.
 
 It is important to note that once a journal entry is created, it cannot be altered in any way. See a [brief explanation here](https://reconcile.endiantribe.com/docs/overview/rules-of-accounting/).
 
-![image](./images/ledger-screen-one-entry.png "Ledger Screen with One Entry")
+<!-- ![image](./images/ledger-screen-one-entry.png "Ledger Screen with One Entry") -->
 
 Now the ledger screen is updated with your latest journal entry along with cumulative stats by month and in total. You can continue to add more journal entries as you see fit.
 
-![image](./images/ledger-screen-many-entries.png "Ledger Screen with Many Entries")
+<!-- ![image](./images/ledger-screen-many-entries.png "Ledger Screen with Many Entries") -->
 
 To explore more of the app’s functionalities, I will now use an instance of the app with random fake data.
 
-![image](./images/user-profile.png "User Profile Screen")
+<!-- ![image](./images/user-profile.png "User Profile Screen") -->
 
 You can see your account’s status by sliding right on the screen or pressing the hamburger button on the top left corner of the screen.
 
-![image](./images/share-screen.png "Share Screen")
+<!-- ![image](./images/share-screen.png "Share Screen") -->
 
 You can share what is shown on the screen in text form by clicking on the share button to the left of the search button on the menu bar.
 
-![image](./images/search-screen.png "Search Screen")
+<!-- ![image](./images/search-screen.png "Search Screen") -->
 
 You can search for all journal entries related to specific individuals by clicking on the search button on the top right corner of the screen. Note that when a search filter is applied, statistics displayed on the ledger screen only account for the filtered journal entries.
 
