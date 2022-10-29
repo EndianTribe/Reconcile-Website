@@ -11,27 +11,12 @@ Has Kotlin Multiplaform feature, which enables client-side (JavaScript) and iOS 
 vs. Java #
 Kotlin provides many benefits over Java. Below are three most important ones to this developer.</description></item><item><title>Future Plans</title><link>https://reconcile.endiantribe.com/docs/under_the_hood/future-plans/</link><pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate><guid>https://reconcile.endiantribe.com/docs/under_the_hood/future-plans/</guid><description>Development Improvements #
 CI/CD #
+Not having to manually deploy to Google Play Store for every new release would be nice.
 Code Style Enforcement #
+At the moment linting is optional. One day I plan to clean up my code and enforce lint rules. One day.
 Error Handling #
+At the moment I am certain there are uncaught exceptions. I intend to catch them all.
 Replace Static Fields with String Resources #
-Consolidate Modifiers #
-Performance Improvements #
-Data Paging #
-Fair Use Limits #
-Server-Side Permissions #
-Reauthenticate User Prior to Deletion #
-Usability Improvements #
-Auto Suggestions on Entry Screen #
-Add Duplicate and Negate Entry #
-Features #
-Search #
-Detailed Statistics #
-Automatic User Data Cleanup #
-Tutorial Mode #
-Recurring Expenses #
-Outstanding Balance History #
-Multiple Users #
-Payment Method Implementation #
-Automatic Reconciliation/Transfers #</description></item><item><title>Internal Testing</title><link>https://reconcile.endiantribe.com/docs/under_the_hood/internal-testing/</link><pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate><guid>https://reconcile.endiantribe.com/docs/under_the_hood/internal-testing/</guid><description>Thank you for participating in the exclusive internal test program of Reconcile the Android app. This page will explain to you the app’s purpose, its current implementation, and your role in the test process.
+I plan to replace static string fields with @StringRes for better testability.</description></item><item><title>Internal Testing</title><link>https://reconcile.endiantribe.com/docs/under_the_hood/internal-testing/</link><pubDate>Tue, 06 Oct 2020 08:48:57 +0000</pubDate><guid>https://reconcile.endiantribe.com/docs/under_the_hood/internal-testing/</guid><description>Thank you for participating in the exclusive internal test program of Reconcile the Android app. This page will explain to you the app’s purpose, its current implementation, and your role in the test process.
 Important Disclosures #
 This app is in its early stages of development and should not be relied upon for any tasks. Your data may be wiped at any time without notice. Additionally the app has not undergone any stringent security audits.</description></item></channel></rss>
