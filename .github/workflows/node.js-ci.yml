@@ -27,6 +27,9 @@ jobs:
     - name: Install dependencies
       run: npm ci
 
+    - name: Install older version for child theme
+      run: npm i @hyas/images@0.2.3
+
     - name: Run Hyas test script
       run: npm test
 
