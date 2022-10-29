@@ -27,7 +27,7 @@ Reconcile is a personal ledger app. It tracks your financial position against ot
 
 ## App’s Implementation
 
-![image](add-screen.png "Google Sign-In Screen")
+![image](signin-screen.png "Google Sign-In Screen")
 
 First, you will sign in through Google for the app to identify you.
 
