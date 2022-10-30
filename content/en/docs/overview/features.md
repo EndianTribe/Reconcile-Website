@@ -43,7 +43,7 @@ Header stats are sticky for your viewing convenience.
 
 ## Non-Blocking Smooth UI
 
-Heavy backend operations are relegated to a different thread, thereby enabling a smooth UI experience. 
+Heavy backend operations are relegated to a different thread, thereby enabling a smooth UI experience.
 
 ## Clean Focus and Keyboard Interaction
 
