@@ -13,6 +13,11 @@ weight: 300
 toc: true
 ---
 
+## Build 20221030
+
+* Dramatically shrank app download size.
+* Implemented search functionality for counterparties.
+
 ## Build 20220929
 
 Initial internal test release to Google Play Store.

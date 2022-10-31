@@ -77,6 +77,8 @@ Does my app fulfill its purpose? What additional features would enhance the user
 
 Do you experience any bugs, glitches, unexpected and undesirable behavior?
 
+If I am unable to reproduce your reported issue on my emulator, I may need to get in touch to collect your device information.
+
 ### Experienced Android Developers
 
 If you are an experienced Android developer, I would appreciate any input regarding my infrastructure setup, [which I describe here](https://reconcile.endiantribe.com/docs/under_the_hood/technical-details/). Are there any interesting libraries, tools, and infrastructure options I should consider?
