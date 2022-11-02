@@ -13,6 +13,12 @@ weight: 300
 toc: true
 ---
 
+## Build 20221102
+
+* Reverted back to no app obfuscation (which causes NPE, which will be investigated later)
+* Added search functionalities for categories.
+* Fixes EndianTribe/Reconcile-Issues-Tracker-Public#1
+
 ## Build 20221030
 
 * Dramatically shrank app download size.
