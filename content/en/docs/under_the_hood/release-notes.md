@@ -15,9 +15,9 @@ toc: true
 
 ## Build 20221102
 
-* Reverted back to no app obfuscation (which causes NPE, which will be investigated later)
+* Reverted back to no app obfuscation (which causes NPE, which will be investigated later).
 * Added search functionalities for categories.
-* Fixes EndianTribe/Reconcile-Issues-Tracker-Public#1
+* Fixes [EndianTribe/Reconcile-Issues-Tracker-Public#1](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/1).
 
 ## Build 20221030
 
@@ -26,4 +26,4 @@ toc: true
 
 ## Build 20220929
 
-Initial internal test release to Google Play Store.
+* Initial internal test release to Google Play Store.
