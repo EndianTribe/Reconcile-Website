@@ -17,7 +17,7 @@ toc: true
 
 * Fixed [an issue searching across multiple types](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/3).
 * Added search UI for value. Functionality not yet implemented.
-* Add UUID, Build, and Type on account page for easy debugging.
+* Added UUID, Build, and Type on account page for easy debugging.
 
 ## Build 20221102
 
