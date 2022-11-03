@@ -15,6 +15,7 @@ toc: true
 
 ## Build 1020221103
 
+* Added reauthentication process immediately prior to account deletion to avoid [FirebaseAuthInvalidCredentialsException](https://firebase.google.com/docs/reference/android/com/google/firebase/auth/FirebaseAuthInvalidCredentialsException).
 * Fixed [an issue searching across multiple types](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/3).
 * Added search UI for value. Functionality not yet implemented.
 * Added UUID, Build, and Type on account page for easy debugging.
