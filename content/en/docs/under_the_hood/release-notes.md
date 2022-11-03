@@ -15,7 +15,7 @@ toc: true
 
 ## Build 1020221103
 
-* Fixed [EndianTribe/Reconcile-Issues-Tracker-Public#3](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/3).
+* Fixed [an issue searching across multiple types](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/3).
 * Added search UI for value. Functionality not yet implemented.
 * Add UUID, Build, and Type on account page for easy debugging.
 
@@ -23,7 +23,7 @@ toc: true
 
 * Reverted back to no app obfuscation (which causes NPE, which will be investigated later).
 * Added search functionality for categories.
-* Fixed [EndianTribe/Reconcile-Issues-Tracker-Public#1](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/1).
+* Fixed [an issue logging in with Google](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/1).
 
 ## Build 20221030
 
