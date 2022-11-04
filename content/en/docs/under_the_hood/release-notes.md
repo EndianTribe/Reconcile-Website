@@ -13,6 +13,13 @@ weight: 300
 toc: true
 ---
 
+## Build 1020221104
+
+* Revamped the search process as well as search functionality.
+* Enforced until dark mode color scheme is fixed.
+* Disabled auto rotation.
+* Changed populate dummy entry functionality to be closer to real use cases.
+
 ## Build 1020221103
 
 * Added reauthentication process immediately prior to account deletion to avoid [FirebaseAuthInvalidCredentialsException](https://firebase.google.com/docs/reference/android/com/google/firebase/auth/FirebaseAuthInvalidCredentialsException).
