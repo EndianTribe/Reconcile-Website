@@ -13,6 +13,10 @@ weight: 300
 toc: true
 ---
 
+## Build 1020221116
+
+* [Search button on top bar now becomes filled when a filter is active.](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/6)
+
 ## Build 1020221104
 
 * Revamped the search process as well as search functionality.
