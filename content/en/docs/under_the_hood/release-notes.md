@@ -13,6 +13,12 @@ weight: 300
 toc: true
 ---
 
+## Build 1020221118
+
+* Fixed an issue with stats displaying incorrect color over 1k value.
+* Fixedd an issue where add journal entry box is disabled after successful addition.
+* Added snackbar message to successful journal entry completion.
+
 ## Build 1020221117
 
 * Users can now long press on an expense item for additional actions (reverse, duplicate, and share).
