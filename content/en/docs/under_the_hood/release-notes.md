@@ -15,6 +15,10 @@ toc: true
 
 ## Build 1020221116
 
+* Users can now long press on an expense item for additional actions (reverse, duplicate, and share).
+
+## Build 1020221116
+
 * [Search button on top bar now becomes filled when a filter is active.](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/6)
 
 ## Build 1020221104
