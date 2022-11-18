@@ -13,7 +13,7 @@ weight: 300
 toc: true
 ---
 
-## Build 1020221116
+## Build 1020221117
 
 * Users can now long press on an expense item for additional actions (reverse, duplicate, and share).
 
