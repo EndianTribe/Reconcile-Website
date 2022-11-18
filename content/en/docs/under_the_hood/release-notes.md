@@ -22,6 +22,7 @@ toc: true
 ## Build 1020221117
 
 * Users can now long press on an expense item for additional actions (reverse, duplicate, and share).
+* Users can now short press on an expense item for additional information (including notes), which implements [this feature request](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/5).
 
 ## Build 1020221116
 
