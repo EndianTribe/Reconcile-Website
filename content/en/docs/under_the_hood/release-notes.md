@@ -13,6 +13,10 @@ weight: 300
 toc: true
 ---
 
+## Build 1020221119
+
+* Fixed an issue with text alignment on ledger screen.
+
 ## Build 1020221118
 
 * Fixed an issue with stats displaying incorrect color over 1k value.
