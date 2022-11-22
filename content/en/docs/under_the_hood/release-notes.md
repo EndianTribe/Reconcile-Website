@@ -13,6 +13,14 @@ weight: 300
 toc: true
 ---
 
+## Build 1020221122
+
+* Database wiped to accommodate schema change (value is now stored as Int as opposed to BigDecimal).
+* [Limited each individual journal entry value to 9,999,999.99. If you have more than that, please consider donating to yours truly.](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/9)
+* [Value textfield now correctly formats to at most 2 decimal points (in addition to thousands comma separators).](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/8)
+* Improved search box range slider value display.
+* [Reimplemented debit and credit buttons.](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/11)
+
 ## Build 1020221119
 
 * Fixed an issue with text alignment on ledger screen.
