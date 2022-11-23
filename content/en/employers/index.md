@@ -22,13 +22,13 @@ You are viewing this page as my potential employer. Below I provide sections tai
 
 **Location Preference**: remote or in person in Las Vegas. Unfortunately I am unable to relocate.
 
-**Immigration Status**: US permanent resident. Can work for almost everybody in the US except the federal government and its contractors.
+**Immigration Status**: US permanent resident. Can work for almost everybody in the US.
 
 ## For Software Engineers and Teams
 
 You can find my app available for [internal testing on Google Play Store here](https://play.google.com/apps/internaltest/4701718537664687824).
 
-*If you would like to try the app out, please get in touch through the recruiter so I can add you to the list.*
+*If you would like to try the app out, please get in touch through the recruiter so I can add you to the list to enable access.*
 
 To get an idea of my app's functionality and user interface, check out my [notes to internal testers](https://reconcile.endiantribe.com/docs/under_the_hood/internal-testing/).
 
