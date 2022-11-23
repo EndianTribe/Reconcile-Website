@@ -13,6 +13,13 @@ weight: 300
 toc: true
 ---
 
+## Build 1020221123
+
+* The app now has an icon.
+* [Fixed an issue with the ledger not updating after a large entry is made.](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/10)
+* [Fixed a few issues with the share function.](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues/14)
+* Updated the search interface to be more user-friendly.
+
 ## Build 1020221122
 
 * Database wiped to accommodate schema change (value is now stored as Int as opposed to BigDecimal).
