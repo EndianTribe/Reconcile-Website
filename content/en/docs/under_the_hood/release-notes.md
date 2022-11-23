@@ -13,6 +13,10 @@ weight: 300
 toc: true
 ---
 
+## Build 1020221124
+
+* Reverted back to "intest" version to ensure functionality.
+
 ## Build 1020221123
 
 * The app now has an icon.
