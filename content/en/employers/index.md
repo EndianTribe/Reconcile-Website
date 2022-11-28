@@ -35,3 +35,5 @@ To get an idea of my app's functionality and user interface, check out [how to u
 To get an idea of the app's architecture, check out my [soliloquy on the app's technical details](https://reconcile.endiantribe.com/docs/under_the_hood/technical-details/).
 
 While the git commit history is not public, you can get a sense of the app's progression since internal testing by checking out the [release notes](https://reconcile.endiantribe.com/docs/under_the_hood/release-notes/) and/or the [issue tracker](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues?q=is%3Aissue+is%3Aclosed).
+
+*Please note that development began long before the first release note was published and the first issue was reported.*

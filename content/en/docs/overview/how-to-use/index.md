@@ -68,7 +68,7 @@ What if I want to see how much someone owes you? Or you want to peruse everythin
 ![image](filter.png "Journal Entry Filter Screen")
 
 * Tap the search button at the top right corner of the screen.
-* Make the appropriate filter selections. The grand total of every category and counter party is conveniently displayed below their names. They are also sorted in decreasing order of magnitude so you can always see the most important ones first.
+* Make the appropriate filter selections. The grand total of every category and counterparty is conveniently displayed below their names. They are also sorted in decreasing order of magnitude so you can always see the most important ones first.
 * Tap "Search." Your outstanding balance using the selected criteria is at the top of the ledger. Remember, a positive number is a debit, which means the *world* (as defined by your search criteria) owes you. A negative number is a credit, which means you owe the *world* (as defined by your search criteria).
 
 ## Share Ledger
