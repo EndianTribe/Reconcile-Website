@@ -30,7 +30,7 @@ You can find my app available for [internal testing on Google Play Store here](h
 
 *If you would like to try the app out, please get in touch through the recruiter so I can add you to the list to enable access.*
 
-To get an idea of my app's functionality and user interface, check out my [notes to internal testers](https://reconcile.endiantribe.com/docs/under_the_hood/internal-testing/).
+To get an idea of my app's functionality and user interface, check out [how to use](https://reconcile.endiantribe.com/docs/overview/how-to-use/).
 
 To get an idea of the app's architecture, check out my [soliloquy on the app's technical details](https://reconcile.endiantribe.com/docs/under_the_hood/technical-details/).
 
