@@ -27,45 +27,7 @@ Reconcile is a personal ledger app. It tracks your financial position against ot
 
 ## App’s Implementation
 
-![image](title-screen.png "Title Screen")
-
-First, you will sign in through Google for the app to identify you.
-
-![image](google-sign-in.png "Google Sign-In Screen")
-
-Once signed in, you are presented with a blank ledger. This is the page that displays all journal entries. If a search filter is applied, it would then display the corresponding search results.
-
-![image](blank-ledger.png "Blank Ledger Screen")
-
-A journal entry is simply an expense line item that is associated with another individual entity. At this moment, you have none. Let’s create one.
-
-![image](add-screen.png "Add Journal Entry Screen")
-
-It is important to note that once a journal entry is created, it cannot be altered in any way. See a [brief explanation here](https://reconcile.endiantribe.com/docs/overview/rules-of-accounting/).
-
-![image](populated-ledger.png "Ledger Screen with One Entry")
-
-Now the ledger screen is updated with your latest journal entry along with cumulative stats by month and in total. You can continue to add more journal entries as you see fit.
-
-![image](account-screen.png "Ledger Screen with Many Entries")
-
-You can see your account’s status by sliding right on the screen or pressing the hamburger button on the top left corner of the screen.
-
-![image](share-screen.png "Share Screen")
-
-You can share what is shown on the screen in text form by clicking on the share button to the left of the search button on the menu bar.
-
-![image](search-screen.png "Search Screen")
-
-You can search for all journal entries by clicking on the search button on the top right corner of the screen. Note that when a search filter is applied, statistics displayed on the ledger screen only account for the filtered journal entries.
-
-![image](expanded-notes.png "Expanded Screen")
-
-You can tap on any journal entry to see a more information.
-
-![image](menu-options.png "Expanded Screen")
-
-You can also long press on any journal entry to use additional options (reverse, duplicate, and share).
+Check out the support article on [How to Use](https://reconcile.endiantribe.com/docs/overview/how-to-use/).
 
 ## Your Role
 
