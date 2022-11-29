@@ -53,4 +53,4 @@ I expect the testing to last over a period of time as I continue to develop the 
 
 I will communicate with you mostly through email. Should you wish to be removed from the program, simply respond to any of my emails as such.
 
-You can always communicate with me through email. However, the preferred method for submitting issues and feature requests is using [Github’s issue tracker here](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues). Please note that this repository is just for tracking issues. The codebase lives elsewhere.
+You can always communicate with me through email. However, the preferred method for submitting issues and feature requests is using [Github’s issue tracker here](https://github.com/EndianTribe/Reconcile-Issues-Tracker-Public/issues?q=is%3Aissue+is%3Aclosed). Please note that this repository is just for tracking issues. The codebase lives elsewhere.
