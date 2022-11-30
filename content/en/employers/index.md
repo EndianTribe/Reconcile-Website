@@ -38,6 +38,6 @@ While the git commit history is not public, you can get a sense of the app's pro
 
 *Please note that development began long before the first release note was published and the first issue was reported.*
 
-** Get In Touch **
+**Get In Touch**
 
 You are seeing this page because you clicked on a link on my resume or job application. Please get in touch through that channel. I elected not to not provide my personal email address here as I seek to reduce spam to a minimum. I hope you can understand.
