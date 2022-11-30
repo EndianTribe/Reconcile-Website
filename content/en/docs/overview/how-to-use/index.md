@@ -1,7 +1,7 @@
 ---
 title: "How to Use"
 description: "How to use Reconcile"
-lead: "How to use Reconcile"
+lead: "How to begin your journey for interpersonal financial order"
 date: 2020-10-06T08:48:57+00:00
 lastmod: 2020-10-06T08:48:57+00:00
 draft: false
