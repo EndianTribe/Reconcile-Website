@@ -13,6 +13,11 @@ weight: 300
 toc: true
 ---
 
+## Build 1020221207
+
+* Added icons to each screen.
+* Upgraded all dependencies and removed beta and alpha dependency channels.
+
 ## Build 1020221124
 
 * Reverted back to "intest" version to ensure functionality.
